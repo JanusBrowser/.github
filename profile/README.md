@@ -1,4 +1,4 @@
-## Welcome to JanusBrowser!
+# Welcome to JanusBrowser!
 
 Janus is a comprehensive database and visualization tool for human transcription factors (TFs).
 It integrates data from multiple sources, including [UniProt](https://www.uniprot.org), [DisProt](https://disprot.org), and the [ELM Resource](https://elm.eu.org), to provide detailed information on selected TFs.
